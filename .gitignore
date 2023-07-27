@@ -5,3 +5,5 @@ env37/
 sentences.txt
 in/
 out/
+secret/
+.DS_Store
